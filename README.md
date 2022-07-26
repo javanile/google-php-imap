@@ -1,1 +1,2 @@
-# google-php-imap
+# Google PHP IMAP
+
